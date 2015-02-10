@@ -1,6 +1,7 @@
 # mixtable
 Modular Midi Controller using Arduino
 
+**Objective:** Only one master module is producing midi to send (and receive) to (from) a computer. The master module manages several slave modules which measure different kinds of sensors, as creative as possible. The connection between master/slave modules is made with a simple stereo jack cable (one line for the ground, one line for the positive supply and one line for the communication in both ways)
 
 ### Structure
 
