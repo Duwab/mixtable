@@ -11,7 +11,7 @@ src\                // code dedicated to the modular midi controller
  |     |
  |     |-- master.ino
  |
- |-- slave\                       // slave programm (mesuring sensors, specific interactions, ...)
+ |-- slave\                       // slave programm (measuring sensors, specific interactions, ...)
  |     |
  |     |-- slave.ino
  |
